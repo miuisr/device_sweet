@@ -1,3 +1,6 @@
+## Device picture
+![Xiaomi Redmi Note 10 Pro](https://github.com/miuisr/miuisr/blob/main/image_devices/sweet.png "Xiaomi Redmi Note 10 Pro")
+
 Copyright (C) 2021 - The LineageOS Project
 
 Device tree for Xiaomi Redmi Note 10 Pro
@@ -24,6 +27,3 @@ Basic   | Spec Sheet
 | Front Camera | 16 MP, f/2.5, Panorama, 1080p@30fps                 |
 | Sensors | Fingerprint (side-mounted), accelerometer, gyro, proximity, compass |
 | Release Date | March 2021                                          |
-
-## Device picture
-![Xiaomi Redmi Note 10 Pro](https://github.com/miuisr/miuisr/blob/main/image_devices/sweet.png "Xiaomi Redmi Note 10 Pro")
