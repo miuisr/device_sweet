@@ -1,5 +1,5 @@
 ## Device picture
-![Xiaomi Redmi Note 10 Pro](https://github.com/miuisr/miuisr/blob/main/image_devices/sweet.png "Xiaomi Redmi Note 10 Pro")
+![Xiaomi Redmi Note 10 Pro](https://github.com/miuisr/miuisr/blob/main/_image_devices/sweet.png "Xiaomi Redmi Note 10 Pro")
 
 Copyright (C) 2021 - The LineageOS Project
 
